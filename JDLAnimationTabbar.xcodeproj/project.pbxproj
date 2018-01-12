@@ -93,26 +93,13 @@
 				8222D8B22008B7660015F1C8 /* Category */,
 				8222D89C2008B7420015F1C8 /* AppDelegate.h */,
 				8222D89D2008B7420015F1C8 /* AppDelegate.m */,
+				8222D8FB2008C2E60015F1C8 /* TestViewController */,
 				8222D8A22008B7420015F1C8 /* Main.storyboard */,
 				8222D8A52008B7420015F1C8 /* Assets.xcassets */,
 				8222D8A72008B7420015F1C8 /* LaunchScreen.storyboard */,
 				8222D8AA2008B7420015F1C8 /* Info.plist */,
 				8222D8F42008BD560015F1C8 /* PrefixHeader.pch */,
 				8222D8AB2008B7420015F1C8 /* main.m */,
-				8222D8F52008BD810015F1C8 /* JDLBaseViewController.h */,
-				8222D8F62008BD810015F1C8 /* JDLBaseViewController.m */,
-				8222D8C02008B9610015F1C8 /* JDLTest1ViewController.h */,
-				8222D8C12008B9610015F1C8 /* JDLTest1ViewController.m */,
-				8222D8C32008B97E0015F1C8 /* JDLTest2ViewController.h */,
-				8222D8C42008B97E0015F1C8 /* JDLTest2ViewController.m */,
-				8222D8C62008B98F0015F1C8 /* JDLTest3ViewController.h */,
-				8222D8C72008B98F0015F1C8 /* JDLTest3ViewController.m */,
-				8222D8C92008B99C0015F1C8 /* JDLTest4ViewController.h */,
-				8222D8CA2008B99C0015F1C8 /* JDLTest4ViewController.m */,
-				8222D8CC2008B9A70015F1C8 /* JDLTest5ViewController.h */,
-				8222D8CD2008B9A70015F1C8 /* JDLTest5ViewController.m */,
-				8222D8F82008BEB20015F1C8 /* JDLTest6ViewController.h */,
-				8222D8F92008BEB20015F1C8 /* JDLTest6ViewController.m */,
 			);
 			path = JDLAnimationTabbar;
 			sourceTree = "<group>";
@@ -137,6 +124,27 @@
 				8222D8BA2008B80C0015F1C8 /* JDLTabBarController.m */,
 			);
 			path = CustomTabbar;
+			sourceTree = "<group>";
+		};
+		8222D8FB2008C2E60015F1C8 /* TestViewController */ = {
+			isa = PBXGroup;
+			children = (
+				8222D8F52008BD810015F1C8 /* JDLBaseViewController.h */,
+				8222D8F62008BD810015F1C8 /* JDLBaseViewController.m */,
+				8222D8C02008B9610015F1C8 /* JDLTest1ViewController.h */,
+				8222D8C12008B9610015F1C8 /* JDLTest1ViewController.m */,
+				8222D8C32008B97E0015F1C8 /* JDLTest2ViewController.h */,
+				8222D8C42008B97E0015F1C8 /* JDLTest2ViewController.m */,
+				8222D8C62008B98F0015F1C8 /* JDLTest3ViewController.h */,
+				8222D8C72008B98F0015F1C8 /* JDLTest3ViewController.m */,
+				8222D8C92008B99C0015F1C8 /* JDLTest4ViewController.h */,
+				8222D8CA2008B99C0015F1C8 /* JDLTest4ViewController.m */,
+				8222D8CC2008B9A70015F1C8 /* JDLTest5ViewController.h */,
+				8222D8CD2008B9A70015F1C8 /* JDLTest5ViewController.m */,
+				8222D8F82008BEB20015F1C8 /* JDLTest6ViewController.h */,
+				8222D8F92008BEB20015F1C8 /* JDLTest6ViewController.m */,
+			);
+			path = TestViewController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
