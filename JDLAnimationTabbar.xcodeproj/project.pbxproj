@@ -52,7 +52,6 @@
 		8222D8CA2008B99C0015F1C8 /* JDLTest4ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JDLTest4ViewController.m; sourceTree = "<group>"; };
 		8222D8CC2008B9A70015F1C8 /* JDLTest5ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JDLTest5ViewController.h; sourceTree = "<group>"; };
 		8222D8CD2008B9A70015F1C8 /* JDLTest5ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JDLTest5ViewController.m; sourceTree = "<group>"; };
-		8222D8F42008BD560015F1C8 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
 		8222D8F52008BD810015F1C8 /* JDLBaseViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JDLBaseViewController.h; sourceTree = "<group>"; };
 		8222D8F62008BD810015F1C8 /* JDLBaseViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JDLBaseViewController.m; sourceTree = "<group>"; };
 		8222D8F82008BEB20015F1C8 /* JDLTest6ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JDLTest6ViewController.h; sourceTree = "<group>"; };
@@ -98,7 +97,6 @@
 				8222D8A52008B7420015F1C8 /* Assets.xcassets */,
 				8222D8A72008B7420015F1C8 /* LaunchScreen.storyboard */,
 				8222D8AA2008B7420015F1C8 /* Info.plist */,
-				8222D8F42008BD560015F1C8 /* PrefixHeader.pch */,
 				8222D8AB2008B7420015F1C8 /* main.m */,
 			);
 			path = JDLAnimationTabbar;
